@@ -1,2 +1,2 @@
-# multi_cloud_management
+# MultiCloud Management
 Multi-cloud/Multi-operator management framework in kubernetes
