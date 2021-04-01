@@ -1,0 +1,9 @@
+apiVersion: ibmcloud.ibm.com/v1
+kind: Service
+metadata:
+  annotations:
+    ibmcloud.ibm.com/self-healing: enabled
+  name: kaustubhtwo
+spec:
+  plan: lite
+  serviceClass: cloudantnosqldb
