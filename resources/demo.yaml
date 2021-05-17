@@ -3,7 +3,7 @@ kind: Service
 metadata:
   annotations:
     ibmcloud.ibm.com/self-healing: enabled
-  name: kaustubhtwo
+  name: demo
 spec:
   plan: lite
-  serviceClass: cloudantnosqldb
+  serviceClass: language-translator
