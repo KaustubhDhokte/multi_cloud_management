@@ -1,8 +1,10 @@
 # MultiCloud Management
 Multi-cloud/Multi-operator management framework in kubernetes
 
-Environment details:
+The system expects you to setup mysql server either locally or remote and 
 
+
+Environment details:
 Development Environment:
 Platform: MacOSX
 Language: Python 3.7.4
