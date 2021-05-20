@@ -1,8 +1,7 @@
 # MultiCloud Management
 Multi-cloud/Multi-operator management framework in kubernetes
 
-The system expects you to setup mysql server either locally or remote and 
-
+The system expects you to setup mysql server either locally or remote and run dbsetup.sql in this project to create basic tables.
 
 Environment details:
 Development Environment:
